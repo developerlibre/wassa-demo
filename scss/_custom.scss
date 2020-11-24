@@ -1,0 +1,120 @@
+// Here you can add other styles
+body {
+  color: #212b36;
+}
+
+@-webkit-keyframes scale {
+  0% {
+    shape-inside: circle(75%, 55%, 0px);
+    -webkit-clip-path: circle(75%, 55%, 0px);
+    shape-inside: circle(0px at 75% 55%);
+    -webkit-clip-path: circle(0px at 75% 55%);
+  }
+  100% {
+    shape-inside: circle(400px, 75%, 55%);
+    -webkit-clip-path: circle(75%, 55%, 400px);
+    shape-inside: circle(400px at 75% 55%);
+    -webkit-clip-path: circle(400px at 75% 55%);
+  }
+ }
+@keyframes scale {
+  0% {
+    shape-inside: circle(0px at 75% 55%);
+    -webkit-clip-path: circle(0px at 75% 55%);
+  }
+  100% {
+    shape-inside: circle(400px at 75% 55%);
+    -webkit-clip-path: circle(400px at 75% 55%);
+  }
+}
+
+.bold {
+	font-weight: bold;
+}
+
+.semi-bold {
+	font-weight: 600;
+}
+
+.tbl {
+  display: table;
+  width: 100%;
+}
+
+.tbl-row {
+  display: table-row;
+}
+
+.tbl-cell {
+  display: table-cell;
+  vertical-align: middle;
+}
+
+.no-margin-bottom {
+	margin-bottom: 0px;
+}
+
+.text-center {
+	text-align: center;
+}
+
+.uppercase {
+	text-transform: uppercase;
+}
+
+.row-center {
+	justify-content: center;
+}
+
+.margin-top-20 {
+  margin-top: 20px;
+}
+
+.margin-bottom-20 {
+	margin-bottom: 20px;
+}
+
+.margin-bottom-60 {
+  margin-bottom: 60px;
+}
+
+.background-enter {
+  transition: all 1s ease;
+}
+
+.background-enter-active {
+  -webkit-animation: scale 1s ease infinite;
+}
+
+.background-exit {
+  transform: translate(0%);
+}
+
+.background-exit-active {
+  transform: translate(-100%);
+  transition: transform 300ms ease;
+}
+
+.seeOppor {
+  padding: 0!important;
+}
+
+.no-padding {
+  padding: 0px !important;
+}
+
+.cursor-pointer {
+  cursor: pointer;
+}
+
+.white-text {
+  color: #fff;
+}
+
+.padding-30 {
+  padding: 30px;
+}
+
+.padding-top-24 {
+  padding-top: 24px !important;
+}

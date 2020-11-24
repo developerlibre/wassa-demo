@@ -1,0 +1,76 @@
+{
+  "text_heading1": "Nowadays more than 1 billion people in the world are still unable to get access to electricity. Among these, 588 million people (55.5%) are living in sub-Saharan countries. Considering the population increase in this region, a certain number of unnelectrified population will continue to remain in the future.",
+  "text_heading2": "From access to information and mobile banking to education and business opportunities, the livelihoods and future of the entire populations across the region are affected by the lack of access to energy. Wassha is changing that today with our business.",
+  "accessible_energy": {
+    "text_content1": "While solar home system with PAYG is becoming popular, it is not easy to keep paying on a regular basis, because customers’ income are not stable especially in the rural villages. Micro electricity grids, while costly and taking a long time to breakeven, are also not efficient in areas with low population density.",
+    "text_content2": "To provide energy to those in needs, we offer LED Lantern rental service for as cheap as kerosene lights. Our customers can come to our kiosks only when they have money and they can even charge their mobile phones through lantern battery, allowing them access to information and mobile financial services",
+    "img_url": "img/external_dashboard/home/energy@2x.png",
+    "number": "123,456",
+    "number_description": "Lanterns are rented out yesterday",
+    "slides": [
+      {
+        "id": 1,
+        "url": "img/external_dashboard/impact/slide-desktop@3x.png",
+        "description": "“In the past, It was difficulties to charge my mobile phone because the distance to the place I coud charge mobile was far and price for charging was high. Now I can charge it comfortably by just connecting WASSHA lantern and get light at the same time." 
+      },
+      {
+        "id": 2,
+        "url": "img/external_dashboard/impact/slide2-desktop@3x.png",
+        "description": "“In the past, It was difficulties to charge my mobile phone because the distance to the place I coud charge mobile was far and price for charging was high. Now I can charge it comfortably by just connecting WASSHA lantern and get light at the same time." 
+      },
+      {
+        "id": 3,
+        "url": "img/external_dashboard/impact/slide3-desktop@3x.png",
+        "description": "“In the past, It was difficulties to charge my mobile phone because the distance to the place I coud charge mobile was far and price for charging was high. Now I can charge it comfortably by just connecting WASSHA lantern and get light at the same time." 
+      }
+    ]
+  },
+  "clean_energy": {
+    "text_content1": "While solar home system with PAYG is becoming popular, it is not easy to keep paying on a regular basis, because customers’ income are not stable especially in the rural villages. Micro electricity grids, while costly and taking a long time to breakeven, are also not efficient in areas with low population density.",
+    "text_content2": "To provide energy to those in needs, we offer LED Lantern rental service for as cheap as kerosene lights. Our customers can come to our kiosks only when they have money and they can even charge their mobile phones through lantern battery, allowing them access to information and mobile financial services",
+    "img_url": "img/external_dashboard/home/co2@2x.png",
+    "number": "123,456",
+    "number_description": "Lanterns are rented out yesterday",
+    "slides": [
+      {
+        "id": 1,
+        "url": "img/external_dashboard/impact/slide-desktop@3x.png",
+        "description": "“In the past, It was difficulties to charge my mobile phone because the distance to the place I coud charge mobile was far and price for charging was high. Now I can charge it comfortably by just connecting WASSHA lantern and get light at the same time." 
+      },
+      {
+        "id": 2,
+        "url": "img/external_dashboard/impact/slide2-desktop@3x.png",
+        "description": "“In the past, It was difficulties to charge my mobile phone because the distance to the place I coud charge mobile was far and price for charging was high. Now I can charge it comfortably by just connecting WASSHA lantern and get light at the same time." 
+      },
+      {
+        "id": 3,
+        "url": "img/external_dashboard/impact/slide3-desktop@3x.png",
+        "description": "“In the past, It was difficulties to charge my mobile phone because the distance to the place I coud charge mobile was far and price for charging was high. Now I can charge it comfortably by just connecting WASSHA lantern and get light at the same time." 
+      }
+    ]
+  },
+  "local_opportunities": {
+    "text_content1": "While solar home system with PAYG is becoming popular, it is not easy to keep paying on a regular basis, because customers’ income are not stable especially in the rural villages. Micro electricity grids, while costly and taking a long time to breakeven, are also not efficient in areas with low population density.",
+    "text_content2": "To provide energy to those in needs, we offer LED Lantern rental service for as cheap as kerosene lights. Our customers can come to our kiosks only when they have money and they can even charge their mobile phones through lantern battery, allowing them access to information and mobile financial services",
+    "img_url": "img/external_dashboard/home/briefcase@2x.png",
+    "number": "123,456",
+    "number_description": "Lanterns are rented out yesterday",
+    "slides": [
+      {
+        "id": 1,
+        "url": "img/external_dashboard/impact/slide-desktop@3x.png",
+        "description": "" 
+      },
+      {
+        "id": 2,
+        "url": "img/external_dashboard/impact/slide2-desktop@3x.png",
+        "description": "“In the past, It was difficulties to charge my mobile phone because the distance to the place I coud charge mobile was far and price for charging was high. Now I can charge it comfortably by just connecting WASSHA lantern and get light at the same time." 
+      },
+      {
+        "id": 3,
+        "url": "img/external_dashboard/impact/slide3-desktop@3x.png",
+        "description": "“In the past, It was difficulties to charge my mobile phone because the distance to the place I coud charge mobile was far and price for charging was high. Now I can charge it comfortably by just connecting WASSHA lantern and get light at the same time." 
+      }
+    ]
+  }
+}

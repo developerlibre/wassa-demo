@@ -1,0 +1,27 @@
+{
+  "title": "Wassha Job Detail",
+  "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwu8Ejzop6Z8BLAZoNcZT2wwpUCznGajwI8p2gQUyz1GaGsWby",
+  "relatingPosts": [
+    {
+      "id": 1,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuQ3DgIniWPAKolrEnoVKwwt-4Wu1a9c1qJnUsnMJR2MEPAlux1Q",
+      "title": "Maintenance Maintenance Maintenance"
+    },
+    {
+      "id": 2,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwu8Ejzop6Z8BLAZoNcZT2wwpUCznGajwI8p2gQUyz1GaGsWby",
+      "title": "Software Developers"
+    },
+    {
+      "id": 3,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhkGrfwjogo345Hv5dqBs-QDEPFahM6-6WqLptcn9eheZozJzo",
+      "title": "Marketing Staff"
+    },
+    {
+      "id": 4,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi_vQvJ-q6cgWB6QmM0vyT20seTnPlSr2zLbGtvI9qcS24G0DmxQ",
+      "title": "HR Manager"
+    }
+  ]
+}

@@ -1,0 +1,535 @@
+@media only screen and (min-width: 768px) {
+  // GLOBAL
+
+  .caption2, .medium-text, .big-text {
+    font-size: 12px;
+  }
+
+  .caption1 {
+    font-size: 14px;
+  }
+
+  .caption1White {
+    font-size: 12px;
+  }
+
+  .caption2White {
+    font-size: 12px;
+  }
+
+  .text-content-white {
+    font-size: 12px;
+  }
+
+  .subtitle {
+    font-size: 20px;
+  }
+
+  .subhead {
+    font-size: 16px;
+  }
+
+  .subhead-white {
+    font-size: 14px;
+  }
+
+  //HEADER
+  .menu-opened {
+    left: 50%;
+    padding: 63px 50% 30px 0px;
+  }
+
+  .menu .mobile-menu-close {
+    right: calc(50% + 40px);
+  }
+
+  .menu li a {
+    font-size: 20px;
+  }
+
+  //FOOTER
+  #footer .address {
+    min-height: 72px;
+    margin: 10px 0px 0px;
+  } 
+
+  .social {
+    margin-top: 40px;
+  }
+
+  #footer #info {
+    padding: 96px 0px;
+  }
+
+  #footer .pill-button {
+    margin: 20px 0px;
+  }
+
+  .footer-logo {
+    //max-width: 100px;
+    max-width: 75px;
+    margin-top: -5px;
+  }
+
+  //CONTENT
+  .content {
+    min-height: calc(100vh - 441px);
+  }
+
+  #power-to-people {
+    background-image: url('/img/external_dashboard/home/power-to-the-people.png');
+    height: 530px;
+  }
+
+  #power-to-people h1 {
+    //font-size: 32px;
+  }
+
+  #power-to-people p {
+    //font-size: 7.2px;
+    //line-height: 1.79;
+    width: 340px;
+  }
+
+  #ptp-wrapper {
+    padding-top: 109px;
+    //padding-bottom: 136px;
+  }
+
+  .social li img {
+    width: 30px;
+  }
+
+  #home-about h2, .home-about-button {
+    text-align: left;
+  }
+
+  #home-about .heading-block {
+    justify-content: flex-start;
+  }
+
+  #our-impact {
+    background-color: #fff;
+  }
+
+  #our-impact .pill-button {
+    margin-top: 30px;  
+  }
+
+  .home-about-description {
+    margin-bottom: 20px;
+  }
+
+  #home-impact {
+    position: relative;
+  }
+
+  #home-impact-wrapper {
+    position: relative;
+    width: 90%;
+    //left: 5%;
+    margin: 0px auto;
+    top: -76px;
+    max-width: 1296px;
+  }
+
+  #home-about .video-frame {
+    margin-top: 35px;
+    margin-bottom: 20px;
+  }
+
+  #home-about .play-icon {
+    width: 45px;
+  }
+
+  #about-heading {
+    background-image: linear-gradient(to top, #212b36, rgba(33, 43, 54, 0.53) 35%, rgba(33, 43, 54, 0)), url('/img/external_dashboard/about/heading-desktop.png');
+    height: 600px;
+  }
+
+  #contact-heading {
+    background-image: url('/img/external_dashboard/contact/heading-large.png');
+    height: 600px;
+  }
+  
+  #career-heading {
+    height: 400px;
+  }
+
+  #careers-heading {
+    background-image: url('/img/external_dashboard/careers/heading-desktop.png');
+    height: 600px;
+  }
+
+  #news-heading {
+    background-image: url('/img/external_dashboard/news/heading-desktop.png');
+    height: 600px;
+  }
+
+  .heading-text {
+    font-size: 2.3rem;
+  }
+
+  .our-mission-text {
+    //font-size: 2.3rem;
+    font-size: 16px;
+    text-align: center;
+  }
+
+  .our-mission-container {
+    padding: 0px 10% 30px;
+  }
+
+  .wassha-values-avatar {
+    width: 109px;
+    height: 109px;
+    border-radius: 54.5px;
+  }
+
+  .wassha-values-desc {
+    // font-size: 1.3rem;
+    font-size: 16px;
+  }
+
+  .wassha-values-title {
+    // font-size: 2.4rem;
+    font-size: 24px;
+  }
+
+  .wassha-values-title {
+    padding: 25px 0px;
+  }
+  
+  #quote {
+    background-image: url('/img/external_dashboard/home/quote@3x.png');
+    height: 250px;
+    align-items: center;
+  }
+
+  #quote .container {
+    padding: 30px;
+  }
+
+  #quote p {
+    max-width: 250px;
+  }
+
+  #home-news .pill-button {
+    margin: 50px 0px 20px 0px;
+  }
+
+  .news-type {
+    bottom: -14px;
+    width: 40px;
+  }
+  
+
+  .image-date {
+    letter-spacing: 1.8px;
+  }
+
+  .news-item {
+    // margin-bottom: 30px;
+    height: 100%;
+  }
+
+  .bg-square:nth-child(1) {
+    margin-right: 15px;
+  }
+
+  .container-no-padding-top {
+    // padding-top: 30px;
+  }
+  
+  .wassha-section {
+    display: flex;
+    justify-content: center;
+  }
+  .bg-square {
+    display: flex;
+    justify-content: center;
+    width: 250px;
+    height: 250px;
+    margin-top: 30px;
+    margin-bottom: 8px;
+  }
+  
+  .bg-square:nth-child(2n){
+    margin-left: 20px;
+  }
+
+  .job-des {
+    cursor: pointer;
+  }
+
+  .wassha-family-block {
+    width: 50%;
+    flex: 0 0 50%;
+  }
+
+  .wassha-family-block-border-right {
+    border-right-width: 1px;
+  }
+
+  .wassha-family-block-border-bottom {
+    border-bottom-width: 1px;
+  }
+
+  .wassha-family-block-border-top {
+    border-top-width: 1px;
+  }
+
+  .wassha-family-container {
+    width: 100%;
+  }
+
+  .btn-vacancies {
+    padding: 5px 60px;
+  }
+
+  .job-text2 {
+    font-weight: 600;
+    margin-bottom: 30px;
+  }
+
+  .btn-career {
+    margin-top: 20%;
+  }
+
+  .job-small {
+    margin-top: -175px;
+  }
+
+  .description-join-us, #carousel-us .slick-slide div {
+    max-width: 600px;
+  } 
+
+  .text-center-mobile {
+    text-align: initial;
+  }
+
+  .contact-submit {
+    margin-top: -4%!important;
+    margin-bottom: 0;
+  }
+
+  #news-social ul.social {
+    width: 300px;
+    margin: 30px auto;
+  }
+
+  #news-social ul.social li img {
+    width: 42px;
+  }
+
+  #news-wrapper {
+    position: relative;
+  }
+
+  #news-content {
+    position: relative;
+    width: 90%;
+    left: 5%;
+    top: -225px;
+    box-shadow: 0 5px 30px 0 rgba(0, 0, 0, 0.11);
+  }
+
+  .mobile-only {
+    display: none;
+  }
+
+  .desktop-only {
+    display: block;
+  }
+
+  .contact-copyright {
+    margin-top: 62%;
+  }
+
+
+  #impact-heading {
+    // background-image: url('/img/external_dashboard/about/heading-large.png');
+    height: 400px;
+  }
+
+  #brighter-future p {
+    width: 80%;
+    margin: 0px auto 16px auto;
+    text-align: center
+  }
+
+  .floating-wrapper {
+    position: relative;
+  }
+
+  .floating-content {
+    position: relative;
+    width: 90%;
+    left: 5%;
+    top: -225px;
+    // box-shadow: 0 5px 30px 0 rgba(0, 0, 0, 0.11);
+  }
+
+  #careers-joinus, #careers-slideshow {
+    box-shadow: 0 10px 10px 0 rgba(0, 0, 0, 0.1);
+  }
+
+  #about-heading-wrapper {
+    position: relative;
+  }
+
+  .about-overflow-top {
+    position: relative;
+    top: -115px;
+    z-index: 4
+  }
+
+  .our-values-title {
+    margin: 30px 0px;
+  }
+
+  ul.wassha-family-tab {
+    list-style-type: none;
+    display: flex;
+    padding: 0;
+    margin: 0;
+    background-color: #e6e6e6;
+  }
+
+  ul.wassha-family-tab li {
+    padding: 18px 20px;
+    font-weight: 600;
+    color: #ea5703;
+    background-color: #fff;
+    box-shadow: 0 0 2px 0 rgba(0, 0, 0, 0.1);
+    font-size: 16px;
+  }
+
+  #about-wassha-family-heading {
+    background-image: url(/img/external_dashboard/about/wassha-family-heading.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 434px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    background-position: center;
+  }
+
+  .impact-block .title {
+    text-align: left;
+  }
+
+  .impact-block .heading-block {
+    justify-content: flex-start;
+  }
+
+  .impact-image {
+    display: inline-block;
+    float: left;
+    width: 80px;
+  }
+
+  .impact-image-description {
+    padding-left: 95px;
+    padding-top: 2px;
+  }
+
+  .impact-image-description h1 {
+    font-size: 2.1875rem;
+    line-height: 1.2;
+    text-align: left;
+  }
+
+  .impact-image-description p {
+    text-align: left;
+  }
+
+  .item-middle {
+    display: flex;
+    justify-content: center;
+    // align-items: center;
+  }
+
+  .item-middle-wrapper {
+    border: solid 0.5px #979797;
+    border-radius: 5px;
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .impact-image-wrapper {
+    // width: 80%;
+    max-width: 240px;
+    margin: 0px;
+  }
+
+  .impact-slide-item {
+    position: relative;
+  }
+
+  #impact-slideshow {
+    margin-top: 40px
+  }
+
+  .slide-dark-bg {
+    display: block !important;
+    position: absolute;
+    height: 100%;
+    width: 60%;
+    z-index: 1;
+  }
+
+  .slide-white-circle {
+    position: absolute;
+    z-index: 4;
+    bottom: 0;
+    left: 40%;
+    display: block !important;
+  }
+
+  .impact-slide-content {
+    display: flex;
+    flex-direction: row-reverse;
+  }
+
+  .impact-slide-content div {
+    flex: 1;
+  }
+
+  .impact-quote {
+    position: relative;
+    z-index: 3;
+  }
+
+  .impact-slide-item img.human-quote {
+    //height: 100%;
+    height: 220px;
+  }
+
+  .impact-quote p {
+    padding-bottom: 75px;
+  }
+
+  .custom-dots {
+    background-color: transparent;
+    width: 50%;
+    // bottom: 0;
+  }
+
+  .heading-block {
+    height: 150px;
+  }
+
+  .email {
+    font-size: 14px;
+    line-height: 1.43;
+  }
+
+  .company-info-text {
+    font-size: 16px;
+    line-height: 1.56;
+  }
+}

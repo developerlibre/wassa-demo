@@ -1,0 +1,69 @@
+{
+	"total": 20,
+	"hasNext": true,
+	"hasPrevious": true,
+	"nextPageURL" : "/mock/news-page2.json",
+	"items" : [
+		{
+			"title": "Paiza Interview - 自分の作ったもので人々をハッピーに　その思いを自社サービス企業で実現",
+			"content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi posuere commodo lorem quis pharetra. ",
+			"created_at": "01.01.2018",
+			"type": "link",
+			"image_url": "img/external_dashboard/home/video-player.png",
+			"url": "http://google.com"
+		},
+		{
+			"title": "Paiza Interview - 自分の作ったもので人々をハッピーに　その思いを自社サービス企業で実現",
+			"content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi posuere commodo lorem quis pharetra. ",
+			"created_at": "01.01.2018",
+			"type": "slideshow",
+			"image_url": "img/external_dashboard/home/video-player.png",
+			"slide": [
+				{
+					"image": "//placekitten.com/1500/500"
+				},
+				{
+					"image": "//placekitten.com/4000/3000"
+				},
+				{
+					"image": "//placekitten.com/800/1200"
+				},
+				{
+					"image": "//placekitten.com/1500/1500"
+				}
+			]
+		},
+		{
+			"title": "Paiza Interview - 自分の作ったもので人々をハッピーに　その思いを自社サービス企業で実現",
+			"content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi posuere commodo lorem quis pharetra. ",
+			"created_at": "01.01.2018",
+			"type": "video",
+			"image_url": "img/external_dashboard/home/video-player.png",
+			"url": "http://www.html5videoplayer.net/videos/toystory.mp4"
+		},
+		{
+			"title": "Paiza Interview - 自分の作ったもので人々をハッピーに　その思いを自社サービス企業で実現",
+			"content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi posuere commodo lorem quis pharetra. ",
+			"created_at": "01.01.2018",
+			"type": "job",
+			"image_url": "img/external_dashboard/home/video-player.png",
+			"job_id": "123"
+		},
+		{
+			"title": "Paiza Interview - 自分の作ったもので人々をハッピーに　その思いを自社サービス企業で実現",
+			"content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi posuere commodo lorem quis pharetra. ",
+			"created_at": "01.01.2018",
+			"type": "job",
+			"image_url": "img/external_dashboard/home/video-player.png",
+			"job_id": "123"
+		},
+		{
+			"title": "Paiza Interview - 自分の作ったもので人々をハッピーに　その思いを自社サービス企業で実現",
+			"content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi posuere commodo lorem quis pharetra. ",
+			"created_at": "01.01.2018",
+			"type": "job",
+			"image_url": "img/external_dashboard/home/video-player.png",
+			"job_id": "123"
+		}
+	]
+}

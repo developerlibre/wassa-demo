@@ -1,0 +1,19 @@
+{
+	"headquarters" : [
+		{
+			"name": "Japan HQ",
+			"address": "Uenonomoto Bldg. 3F, 3-15-12 Higashiueno, Taito-ku, Tokyo,110-0015 JAPAN",
+			"url": "https://www.google.com/maps/place/Japan,+%E3%80%92110-0015+T%C5%8Dky%C5%8D-to,+Tait%C5%8D-ku,+Higashiueno,+3+Chome%E2%88%9215%E2%88%9212+%E4%B8%8A%E9%87%8E%E9%87%8E%E6%9C%AC%E3%83%93%E3%83%AB+3%E9%9A%8E/@35.7107837,139.7764185,17z/data=!3m1!4b1!4m5!3m4!1s0x60188e98c8a93e65:0x7849a8261ab01828!8m2!3d35.7107837!4d139.7786072"
+			
+		},
+		{
+			"name": "Tanzania Branch",
+			"address": "Derm plaza 4F, Plot 16, Block45A, New Bagamoyo Road, Kijitonyama, Dar es Salaam, P.O.Box.33452, TANZANIA",
+			"url": "https://www.google.co.jp/maps/place/Derm+plaza/@-6.7772647,39.2448635,17z/data=!4m5!3m4!1s0x185c4c22f93c31ad:0xc0e9aa3f2b872928!8m2!3d-6.7769557!4d39.2455636"
+		}
+	],
+	"facebook": "http://facebook.com",
+	"twitter": "http://twitter.com",
+	"instagram": "http://instagram.com",
+	"linkedin": "http://linkedin.com"
+}

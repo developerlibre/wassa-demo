@@ -1,0 +1,21 @@
+{
+	"home_heading": "Through Kiosks, WASSHA provides a whole new experience for people in off-grid areas with affordable, accessible and safe electricity. We provide the rental  device and charging service using clean energy. ",
+	"impact": [
+		{
+			"number": "123",
+			"title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+			"type": "co2"
+		},
+		{
+			"number": "45k",
+			"title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+			"type": "energy"
+		},
+		{
+			"number": "67%",
+			"title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+			"type": "briefcase"
+		}
+	],
+	"about": "Our mission is to provide power to the people. Through Kiosks, WASSHA provides a whole new experience for people in off-grid areas with affordable, accessible and safe electricity. We provide the rental  device and charging service using clean energy. WASSHA lends all devices to start WASSHA business. Remote management and monitoration of every operation  made possible with our innovative technology, so that we can check every transactions like sales, customer information, and power generation. We are looking for  business partners to expand WASSHA to off-grid areas!"
+}
